@@ -274,3 +274,23 @@ x==========x]
 [2025-05-12 16:55:50,527: INFO: main: >>>>>> stage Evaluation stage completed <<<<<<
 
 x==========x]
+[2025-05-12 17:35:17,730: INFO: data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-05-12 17:35:17,735: INFO: comman: yaml file: config\config.yaml loaded successfully]
+[2025-05-12 17:35:17,735: INFO: comman: yaml file: params.yaml loaded successfully]
+[2025-05-12 17:35:17,735: INFO: comman: created directory at: artifacts]
+[2025-05-12 17:35:17,735: INFO: comman: created directory at: artifacts/data_ingestion]
+[2025-05-12 17:35:17,735: INFO: data_ingestion_01: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2025-05-12 17:35:33,719: INFO: data_ingestion_01: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2025-05-12 17:35:34,533: INFO: data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2025-05-12 17:37:51,995: INFO: data_ingestion: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2025-05-12 17:37:51,997: INFO: comman: yaml file: config\config.yaml loaded successfully]
+[2025-05-12 17:37:51,997: INFO: comman: yaml file: params.yaml loaded successfully]
+[2025-05-12 17:37:51,999: INFO: comman: created directory at: artifacts]
+[2025-05-12 17:37:52,000: INFO: comman: created directory at: artifacts/data_ingestion]
+[2025-05-12 17:37:52,000: INFO: data_ingestion_01: Downloading data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2025-05-12 17:38:06,292: INFO: data_ingestion_01: Downloaded data from https://drive.google.com/file/d/1vlhZ5c7abUKF8xXERIw6m9Te8fW7ohw3/view?usp=sharing into file artifacts/data_ingestion/data.zip]
+[2025-05-12 17:38:07,123: INFO: data_ingestion: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
