@@ -1,10 +1,10 @@
 import sys
 import os
-sys.path.append(os.getcwd)
+#sys.path.append(os.getcwd)
 
-from src.cnnClassifier.config.configuration import ConfigurationManager
-from src.cnnClassifier.components.model_training_03 import Training
-from src.cnnClassifier import logger
+from cnnClassifier.config.configuration import ConfigurationManager
+from cnnClassifier.components.model_training_03 import Training
+from cnnClassifier import logger
 
 STAGE_NAME = "Training"
 
